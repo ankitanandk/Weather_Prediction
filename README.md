@@ -11,3 +11,9 @@ Scenario – an individual is: 
   High desire to move a location with similar weather to where they are moving from
 
 What locations on the mainland of the United States have similar weather to where this individual is from?
+
+You can use FarmLandMetrics.YML to install all required packages for this project
+
+and can obtain the Data from NOAA - https://www.ncei.noaa.gov/cdo-web/datasets
+
+The Final Analysis and Prediction are added in the directory Final Version.
